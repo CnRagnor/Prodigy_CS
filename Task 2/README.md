@@ -46,7 +46,7 @@ Password Strength Classifications:
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone [https://github.com/yourusername](https://github.com/CnRagnor/Prodigy_CS)/password-strength-checker.git
 cd password-strength-checker
 ```
 
