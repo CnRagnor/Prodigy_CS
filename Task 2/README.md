@@ -1,4 +1,3 @@
-
 # Password Complexity Checker
 
 This project is a password complexity checker built in Python. It checks password strength based on several criteria and provides feedback to users. The project follows NIST guidelines for password security.
