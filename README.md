@@ -6,7 +6,7 @@ This repository contains several Python projects that demonstrate various concep
 
 ## Projects
 
-### 1. Caesar Cipher Using Python
+# 1. Caesar Cipher Using Python
 
 A basic implementation of the Caesar Cipher, a simple substitution cipher used in cryptography. This project includes encryption and decryption functions and demonstrates how the Caesar Cipher works.
 
@@ -17,7 +17,7 @@ A basic implementation of the Caesar Cipher, a simple substitution cipher used i
 **Usage:**
 To use the Caesar Cipher, run the script and follow the prompts to encrypt or decrypt a message.
 
-### 2. Password Complexity Checker
+# 2. Password Complexity Checker
 
 This project is a password complexity checker that evaluates the strength and health of passwords based on NIST guidelines. The checker provides feedback to users to help them create strong passwords.
 
@@ -30,7 +30,7 @@ This project is a password complexity checker that evaluates the strength and he
 **Usage:**
 Run the script and enter a password when prompted. The checker will evaluate the password's strength and provide feedback.
 
-### 3. Keylogger
+# 3. Keylogger
 
 A keylogger program that records and logs keystrokes. Ethical considerations and permission are crucial for this project, and it is intended for educational use only.
 
@@ -42,7 +42,7 @@ A keylogger program that records and logs keystrokes. Ethical considerations and
 **Usage:**
 Run the script with appropriate permissions and follow ethical guidelines. The keylogger will log keystrokes and store them in a file.
 
-### 4. Network Packet Analyzer
+# 4. Network Packet Analyzer
 
 A network packet analyzer that captures and analyzes network packets. This project displays source IP, destination IP, payload, and other relevant information. Ethical considerations and permission are crucial, and it is intended for educational purposes only.
 
