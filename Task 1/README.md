@@ -12,6 +12,17 @@ This project includes a Caesar Cipher implementation and a secure encryption pro
 
 This project implements AES encryption using the Fernet module, following best practices for secure encryption. The encryption key is generated, and messages can be encrypted and decrypted securely. The program also includes logging to keep track of encryption and decryption operations.
 
+## Additional Libraries
+
+The following additional libraries are used in this project:
+
+- **Cryptography**: Provides the Fernet module for AES encryption and decryption.
+- **Logging**: Used for logging encryption and decryption operations with rotation.
+
+You can install these libraries using `pip`:
+''bash
+pip install cryptography
+
 ## Usage
 
 To use the Caesar Cipher and AES encryption program, run the script and follow the prompts.
